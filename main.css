@@ -19,7 +19,7 @@ a {
 
 ul {
     padding: 0;
-    margin: o;
+    margin: 0;
 }
 
 ul li {
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .container {
     margin: 0 auto;
-    width: 1920px;
+    width: 1140px;
 }
 
 .header {
@@ -50,21 +50,21 @@ h1, h2, h3, h4, h5, h6 {
 	background-image: linear-gradient(88deg, #8F00FF, #00A3FF);
     display: block;
     position: absolute;
-    left: 380px;
-    top: 14px;
+    left: 390px;
+    top: 34px;
     text-decoration: none;
 }
 
 .menu {
     position: absolute;
-    top: 13px;
-    left: 803px;
+    top: 34px;
+    left: 765px;
 }
 
 .contacts {
     position: absolute;
-    top: 19px;
-    left: 1333px;
+    top: 26px;
+    left: 1340px;
     font-style: normal;
     text-align: right;
 }
@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .hero__text-section {
-    width: 640px;
+    width: 637px;
 }
 
 .hero__title {
